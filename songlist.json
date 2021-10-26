@@ -1,0 +1,73 @@
+{
+  "songs": [
+    {
+      "singer": "The 1975",
+      "song": "Somebody Else",
+      "album": "I like it when you sleep, fro you are so beautiful yet so unaware",
+      "preference": 150
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "Sex",
+      "album": "The 1975",
+      "preference": 80
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "Chocolate",
+      "album": "The 1975",
+      "preference": 60
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "Love Me",
+      "album": "I like it when you sleep, fro you are so beautiful yet so unaware",
+      "preference": 75
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "Guys",
+      "album": "Notes On A Conditional Form",
+      "preference": 96
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "Robbers",
+      "album": "The 1975",
+      "preference": 85
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "She Way Out",
+      "album": "The 1975",
+      "preference": 60
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "Roadkill",
+      "album": "Notes On A Conditional Form",
+      "preference": 95
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "If You're Too Shy",
+      "album": "Notes On A Conditional Form",
+      "preference": 120
+    },
+
+    {
+      "singer": "The 1975",
+      "song": "The Sound",
+      "album": "I like it when you sleep, fro you are so beautiful yet so unaware",
+      "preference": 90
+    }
+  ]
+}
